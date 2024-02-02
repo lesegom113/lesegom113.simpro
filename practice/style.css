@@ -1,0 +1,60 @@
+body {
+    background-color: #63909f;
+    
+}
+.welcome-mess {
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    
+}
+
+.div {
+     
+    border: 0px solid;
+    border-radius: 1cm;
+    padding: 30px;
+     
+    background-color: aliceblue;
+    text-align: center;
+    height: 9cm;
+    width: 12cm;
+
+    top: 50%;
+    left: 50%;
+    transform : translate(-50%, -50%);
+    position: absolute;
+}
+
+input {
+    margin: 15px;
+    padding: 15px;
+    width: 8cm ;
+    outline:none;
+     
+     
+}
+
+.login-btn {
+    margin: 10px;
+    padding: 10px;
+    width: 9cm ; 
+    background-color: #63909f ; 
+}
+.create-account a {
+    text-decoration: none;
+}
+
+.create-account {
+    margin: 10px;
+    font-size : larger  ;
+    color: black;
+}
+.submit-btn {
+    position: relative;
+    border: 2px solid ;
+    width: 4cm;
+    height: 1cm;
+    left:5cm;
+}
